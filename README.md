@@ -17,6 +17,7 @@ Ensure you have Python 3.6+ installed on your system.
 # If not already done
 mkdir SimpleJarvis
 cd SimpleJarvis
+git clone https://github.com/pratishthasaini/jarvis.git
 ```
 
 ### Step 2: Create a Virtual Environment
